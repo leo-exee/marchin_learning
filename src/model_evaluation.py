@@ -18,4 +18,4 @@ def evaluate_model(X_test, y_test):
 
 if __name__ == "__main__":
     X_test, y_test = load_data()
-    evaluate_model(X_test, y_test)
+    evaluate_model(X_test["processed_text"], y_test["label"])

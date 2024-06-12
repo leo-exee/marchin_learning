@@ -1,15 +1,10 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
+from spacy.lang.fr.stop_words import STOP_WORDS as stopwords
+import spacy
 import string
 
-import nltk
-
-nltk.download("punkt")
-nltk.download("stopwords")
-nltk.download("wordnet")
+nlp = spacy.load("fr_core_news_sm")
 
 
 def load_data(filepath):
@@ -18,15 +13,12 @@ def load_data(filepath):
 
 def preprocess_text(text):
     text = text.lower()
-    tokens = word_tokenize(text)
-    stop_words = set(stopwords.words("french"))
+    doc = nlp(text)
     tokens = [
-        word
-        for word in tokens
-        if word not in stop_words and word not in string.punctuation
+        token.lemma_
+        for token in doc
+        if token.text not in stopwords and token.text not in string.punctuation
     ]
-    lemmatizer = WordNetLemmatizer()
-    tokens = [lemmatizer.lemmatize(word) for word in tokens]
     return " ".join(tokens)
 
 

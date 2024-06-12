@@ -1,8 +1,13 @@
 import joblib
 
+from data_preprocessing import preprocess_text
+
 
 def predict_sentiment(text):
     pipeline = joblib.load("./models/sentiment_model.pkl")
+    text = preprocess_text(
+        text
+    )  # Ensure the input text is preprocessed the same way as training data
     prediction = pipeline.predict([text])
     return prediction[0]
 
