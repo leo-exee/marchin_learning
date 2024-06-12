@@ -2,7 +2,7 @@ import joblib
 
 
 def predict_sentiment(text):
-    pipeline = joblib.load("../models/sentiment_model.pkl")
+    pipeline = joblib.load("./models/sentiment_model.pkl")
     prediction = pipeline.predict([text])
     return prediction[0]
 

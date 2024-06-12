@@ -42,11 +42,11 @@ def split_data(df):
 
 
 if __name__ == "__main__":
-    filepath = "../data/data.csv"
+    filepath = "./data/data.csv"
     df = load_data(filepath)
     df = preprocess_data(df)
     X_train, X_test, y_train, y_test = split_data(df)
-    X_train.to_csv("../data/X_train.csv", index=False)
-    X_test.to_csv("../data/X_test.csv", index=False)
-    y_train.to_csv("../data/y_train.csv", index=False)
-    y_test.to_csv("../data/y_test.csv", index=False)
+    X_train.to_csv("./data/X_train.csv", index=False)
+    X_test.to_csv("./data/X_test.csv", index=False)
+    y_train.to_csv("./data/y_train.csv", index=False)
+    y_test.to_csv("./data/y_test.csv", index=False)
