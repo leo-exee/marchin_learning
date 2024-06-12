@@ -1,0 +1,7 @@
+review_id,text,label
+1,"Ce film était fantastique ! Je l'ai adoré !",positif
+2,"J'ai détesté ce film, c'était terrible.",négatif
+3,"Le film était correct, pas le meilleur mais pas le pire.",neutre
+4,"Une histoire incroyable et un excellent jeu d'acteur. Hautement
+recommandé !",positif
+5,"Pas la peine de perdre mon temps. Très décevant.",négatif

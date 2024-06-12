@@ -42,7 +42,7 @@ def split_data(df):
 
 
 if __name__ == "__main__":
-    filepath = "../data/reviews.csv"
+    filepath = "../data/data.csv"
     df = load_data(filepath)
     df = preprocess_data(df)
     X_train, X_test, y_train, y_test = split_data(df)
