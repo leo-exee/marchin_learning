@@ -1,101 +1,100 @@
 review_id,text,label
-1,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-2,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
-3,Acteurs médiocres et histoire sans intérêt.,négatif
-4,Le pire film que j'ai jamais vu.,négatif
-5,"J'ai détesté ce film, c'était terrible.",négatif
-6,Un film moyen avec des hauts et des bas.,neutre
-7,"Rien de spécial, juste un film passable.",neutre
-8,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-9,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-10,Le pire film que j'ai jamais vu.,négatif
-11,"Moyen, quelques bons moments mais globalement décevant.",neutre
-12,Le pire film que j'ai jamais vu.,négatif
-13,J'ai passé un excellent moment à regarder ce film.,positif
-14,"Rien de spécial, juste un film passable.",neutre
-15,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
-16,"J'ai détesté ce film, c'était terrible.",négatif
-17,Pas la peine de perdre mon temps. Très décevant.,négatif
-18,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-19,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-20,"Film magnifique, plein d'émotions.",positif
-21,"Rien de spécial, juste un film passable.",neutre
-22,Le pire film que j'ai jamais vu.,négatif
-23,"Film magnifique, plein d'émotions.",positif
-24,"Moyen, quelques bons moments mais globalement décevant.",neutre
-25,"J'ai détesté ce film, c'était terrible.",négatif
-26,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
-27,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-28,Le pire film que j'ai jamais vu.,négatif
-29,"Film magnifique, plein d'émotions.",positif
-30,Pas la peine de perdre mon temps. Très décevant.,négatif
-31,Acteurs médiocres et histoire sans intérêt.,négatif
-32,"Rien de spécial, juste un film passable.",neutre
-33,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
-34,"Rien de spécial, juste un film passable.",neutre
-35,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-36,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-37,"Film magnifique, plein d'émotions.",positif
-38,Acteurs médiocres et histoire sans intérêt.,négatif
+1,Ce film était fantastique ! Je l'ai adoré !,positif
+2,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
+3,"Un film ni bon ni mauvais, juste correct.",neutre
+4,L'intrigue était brillante et les acteurs formidables.,positif
+5,Le film manquait de rythme et de suspense.,négatif
+6,Il y avait des moments agréables mais aussi des longueurs.,neutre
+7,J'ai passé un excellent moment à regarder ce film.,positif
+8,Le pire film que j'ai jamais vu.,négatif
+9,"Moyen, quelques bons moments mais globalement décevant.",neutre
+10,"Film magnifique, plein d'émotions.",positif
+11,Acteurs médiocres et histoire sans intérêt.,négatif
+12,"Le film était correct, pas le meilleur mais pas le pire.",neutre
+13,Un chef-d'œuvre du cinéma moderne.,positif
+14,"Très mal réalisé, je ne le recommande pas.",négatif
+15,Il y avait des moments agréables mais aussi des longueurs.,neutre
+16,Je le recommande vivement à tous les amateurs de cinéma.,positif
+17,"Très mal réalisé, je ne le recommande pas.",négatif
+18,"C'était acceptable, mais rien de mémorable.",neutre
+19,Ce film était fantastique ! Je l'ai adoré !,positif
+20,Une déception totale du début à la fin.,négatif
+21,"C'était acceptable, mais rien de mémorable.",neutre
+22,L'intrigue était brillante et les acteurs formidables.,positif
+23,Le scénario était confus et les dialogues sans intérêt.,négatif
+24,Il y avait des moments agréables mais aussi des longueurs.,neutre
+25,J'ai passé un excellent moment à regarder ce film.,positif
+26,"Très mal réalisé, je ne le recommande pas.",négatif
+27,"Un film ni bon ni mauvais, juste correct.",neutre
+28,J'ai passé un excellent moment à regarder ce film.,positif
+29,Acteurs médiocres et histoire sans intérêt.,négatif
+30,Un film moyen avec des hauts et des bas.,neutre
+31,J'ai passé un excellent moment à regarder ce film.,positif
+32,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
+33,Un film moyen qui ne laisse pas une impression durable.,neutre
+34,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
+35,Le pire film que j'ai jamais vu.,négatif
+36,Il y avait des moments agréables mais aussi des longueurs.,neutre
+37,L'intrigue était brillante et les acteurs formidables.,positif
+38,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
 39,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
-40,Pas la peine de perdre mon temps. Très décevant.,négatif
-41,Le pire film que j'ai jamais vu.,négatif
-42,Un film moyen avec des hauts et des bas.,neutre
-43,"J'ai détesté ce film, c'était terrible.",négatif
-44,"Film magnifique, plein d'émotions.",positif
-45,Le pire film que j'ai jamais vu.,négatif
-46,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-47,J'ai passé un excellent moment à regarder ce film.,positif
-48,Acteurs médiocres et histoire sans intérêt.,négatif
-49,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-50,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-51,Excellente réalisation et scénario captivant.,positif
-52,Excellente réalisation et scénario captivant.,positif
-53,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-54,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-55,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
-56,Acteurs médiocres et histoire sans intérêt.,négatif
-57,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
-58,Un film moyen avec des hauts et des bas.,neutre
-59,"Film magnifique, plein d'émotions.",positif
-60,"Moyen, quelques bons moments mais globalement décevant.",neutre
-61,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-62,Acteurs médiocres et histoire sans intérêt.,négatif
-63,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-64,Un film moyen avec des hauts et des bas.,neutre
-65,Pas la peine de perdre mon temps. Très décevant.,négatif
-66,Ce film était fantastique ! Je l'ai adoré !,positif
-67,Pas la peine de perdre mon temps. Très décevant.,négatif
-68,"J'ai détesté ce film, c'était terrible.",négatif
-69,Excellente réalisation et scénario captivant.,positif
-70,Le pire film que j'ai jamais vu.,négatif
-71,"Moyen, quelques bons moments mais globalement décevant.",neutre
-72,J'ai passé un excellent moment à regarder ce film.,positif
-73,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-74,Ce film était fantastique ! Je l'ai adoré !,positif
-75,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
-76,"J'ai détesté ce film, c'était terrible.",négatif
-77,Ce film était fantastique ! Je l'ai adoré !,positif
-78,"Film magnifique, plein d'émotions.",positif
-79,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
-80,Un film moyen avec des hauts et des bas.,neutre
-81,Excellente réalisation et scénario captivant.,positif
-82,"Moyen, quelques bons moments mais globalement décevant.",neutre
-83,"Moyen, quelques bons moments mais globalement décevant.",neutre
-84,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
-85,"Moyen, quelques bons moments mais globalement décevant.",neutre
-86,"J'ai détesté ce film, c'était terrible.",négatif
-87,Un film moyen avec des hauts et des bas.,neutre
-88,"J'ai détesté ce film, c'était terrible.",négatif
-89,Pas la peine de perdre mon temps. Très décevant.,négatif
-90,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
-91,Le pire film que j'ai jamais vu.,négatif
-92,"J'ai détesté ce film, c'était terrible.",négatif
-93,J'ai passé un excellent moment à regarder ce film.,positif
-94,"Moyen, quelques bons moments mais globalement décevant.",neutre
-95,Acteurs médiocres et histoire sans intérêt.,négatif
-96,"Le film était correct, pas le meilleur mais pas le pire.",neutre
-97,Le pire film que j'ai jamais vu.,négatif
-98,Excellente réalisation et scénario captivant.,positif
-99,"J'ai détesté ce film, c'était terrible.",négatif
-100,Un film moyen avec des hauts et des bas.,neutre
+40,Un film qui restera longtemps dans ma mémoire.,positif
+41,"Très mal réalisé, je ne le recommande pas.",négatif
+42,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
+43,Un chef-d'œuvre du cinéma moderne.,positif
+44,Une déception totale du début à la fin.,négatif
+45,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
+46,Je le recommande vivement à tous les amateurs de cinéma.,positif
+47,Le pire film que j'ai jamais vu.,négatif
+48,"Le film était correct, pas le meilleur mais pas le pire.",neutre
+49,Un film qui restera longtemps dans ma mémoire.,positif
+50,Le film manquait de rythme et de suspense.,négatif
+51,Il y avait des moments agréables mais aussi des longueurs.,neutre
+52,Un chef-d'œuvre du cinéma moderne.,positif
+53,"Très mal réalisé, je ne le recommande pas.",négatif
+54,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
+55,Un film qui restera longtemps dans ma mémoire.,positif
+56,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
+57,"Le film était correct, pas le meilleur mais pas le pire.",neutre
+58,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
+59,"J'ai détesté ce film, c'était terrible.",négatif
+60,"Le film était correct, pas le meilleur mais pas le pire.",neutre
+61,Un chef-d'œuvre du cinéma moderne.,positif
+62,Le film manquait de rythme et de suspense.,négatif
+63,"Rien de spécial, juste un film passable.",neutre
+64,"Film magnifique, plein d'émotions.",positif
+65,"Très mal réalisé, je ne le recommande pas.",négatif
+66,"Un film ni bon ni mauvais, juste correct.",neutre
+67,Chaque scène était un plaisir à regarder.,positif
+68,Le pire film que j'ai jamais vu.,négatif
+69,Quelques scènes intéressantes mais globalement banal.,neutre
+70,L'intrigue était brillante et les acteurs formidables.,positif
+71,Le pire film que j'ai jamais vu.,négatif
+72,"Un film ni bon ni mauvais, juste correct.",neutre
+73,"Film magnifique, plein d'émotions.",positif
+74,Le scénario était confus et les dialogues sans intérêt.,négatif
+75,"Moyen, quelques bons moments mais globalement décevant.",neutre
+76,Un film qui restera longtemps dans ma mémoire.,positif
+77,"Très mal réalisé, je ne le recommande pas.",négatif
+78,"C'était acceptable, mais rien de mémorable.",neutre
+79,Un chef-d'œuvre du cinéma moderne.,positif
+80,Pas la peine de perdre mon temps. Très décevant.,négatif
+81,Quelques scènes intéressantes mais globalement banal.,neutre
+82,Chaque scène était un plaisir à regarder.,positif
+83,C'était une torture de regarder ce film.,négatif
+84,"Rien de spécial, juste un film passable.",neutre
+85,Un chef-d'œuvre du cinéma moderne.,positif
+86,Le pire film que j'ai jamais vu.,négatif
+87,"C'était acceptable, mais rien de mémorable.",neutre
+88,Chaque scène était un plaisir à regarder.,positif
+89,Une déception totale du début à la fin.,négatif
+90,"Pas mal, mais je ne le regarderai pas une deuxième fois.",neutre
+91,Un chef-d'œuvre du cinéma moderne.,positif
+92,"Une vraie perte de temps, je regrette de l'avoir regardé.",négatif
+93,Il y avait des moments agréables mais aussi des longueurs.,neutre
+94,Chaque scène était un plaisir à regarder.,positif
+95,Une déception totale du début à la fin.,négatif
+96,"Un film ni bon ni mauvais, juste correct.",neutre
+97,Une histoire incroyable et un excellent jeu d'acteur. Hautement recommandé !,positif
+98,Acteurs médiocres et histoire sans intérêt.,négatif
+99,Un film moyen qui ne laisse pas une impression durable.,neutre
